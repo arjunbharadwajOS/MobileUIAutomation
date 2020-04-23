@@ -1,0 +1,11 @@
+﻿{
+  "environment": {
+    "activity": "au.com.bws.debug.LaunchActivity",
+    "device": "ce031713912500d80c",
+    "executionmode": "local",
+    "package": "au.com.bws.debug",
+    "platform": "android",
+    "portno": 4723,
+    "serverip": "127.0.0.1"
+  }
+}

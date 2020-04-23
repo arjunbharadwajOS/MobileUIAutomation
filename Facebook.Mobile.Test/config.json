@@ -1,0 +1,10 @@
+{
+  "OperatingSystem": "android",
+  "ExecutionMode": "Local",
+  "DeviceId": "ce0317139227a0760c",
+  "AppPath": "C:\\mobileapp\\lbm_android-api_uatapi-debug.apk",
+  "appPackage": "com.facebook.katana",
+  "appActivity": "com.facebook.katana.LoginActivity",
+  "remoteipadress": "127.0.0.1",
+  "remotePort": "4723"
+}
